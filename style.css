@@ -79,7 +79,7 @@ h3{
     box-shadow: inset 200px 0 0 0 #00821e;
     color: white;
 }
-@media(max-width:400px){
+@media(max-width:600px){
     .column{
         display: flex;
         justify-content: center;
